@@ -1,6 +1,6 @@
 # Javascript-Snippets
 
-Small Javascript snippets
+JavaScript Multiplication Table
+This is a simple multiplication table asking the user the number of rows and columns he wants.
 
-### Programs
-- 1.Programs coming soon!
+
