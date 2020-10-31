@@ -9,4 +9,6 @@ Displays a simple message "Welcome!!!" on your demo webpage and when the user ho
 Countdown Timer
 Displays countdown timer in an element.
 
+Quotes Slideshow.
+
 
